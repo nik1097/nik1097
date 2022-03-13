@@ -21,6 +21,14 @@ My name is Nikhil Suresh and I'm a software developer. I'm from India, living in
 ![](https://img.shields.io/badge/FrontEnd-Tkinter-informational?style=flat&logo=tkinter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MachineLearning-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 
+### AWS Services
+![](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=s3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-RDS-informational?style=flat&logo=rds&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Routing-LoadBalancer-informational?style=flat&logo=loadbalancer&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Compute-Lambda-informational?style=flat&logo=lambda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataScience-SageMaker-informational?style=flat&logo=sagemaker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Compute-EC2-informational?style=flat&logo=ec2&logoColor=white&color=2bbc8a)
+
 ## Professional Journey
 
 <!--
