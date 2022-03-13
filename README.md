@@ -6,9 +6,11 @@ My name is Nikhil Suresh and I'm a software developer. I'm from India, living in
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ###  Python Libraries
 ![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
@@ -28,6 +30,9 @@ My name is Nikhil Suresh and I'm a software developer. I'm from India, living in
 ![](https://img.shields.io/badge/Compute-Lambda-informational?style=flat&logo=lambda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataScience-SageMaker-informational?style=flat&logo=sagemaker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Compute-EC2-informational?style=flat&logo=ec2&logoColor=white&color=2bbc8a)
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik1097&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
 ## Professional Journey
 
