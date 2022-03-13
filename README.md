@@ -35,6 +35,7 @@ My name is Nikhil Suresh and I'm a software developer. I'm from India, living in
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik1097&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
 ## Professional Journey
+  <img align="center" src=https://github.com/nik1097/nik1097/blob/main/Timeline.svg/>
 
 <!--
 **nik1097/nik1097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
