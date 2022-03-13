@@ -1,15 +1,16 @@
 # Hello, folks! 👋
 My name is Nikhil Suresh and I'm a software developer. I'm from India, living in South Carolina, USA and currently doing my Masters in Computer Science at Clemson University.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-##  Python Libraries
+###  Python Libraries
 ![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataScience-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataScience-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
@@ -19,6 +20,8 @@ My name is Nikhil Suresh and I'm a software developer. I'm from India, living in
 ![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FrontEnd-Tkinter-informational?style=flat&logo=tkinter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MachineLearning-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+
+## Professional Journey
 
 <!--
 **nik1097/nik1097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
