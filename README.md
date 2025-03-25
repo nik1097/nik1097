@@ -1,5 +1,5 @@
 # Hello, folks! 👋
-My name is Nikhil Suresh and I'm a software developer. I'm from India, living in South Carolina, USA and currently doing my Masters in Computer Science at Clemson University.
+My name is Nikhil Suresh and I'm a software developer. I'm from India, living in Chicago, USA and currently work at Morningstar, Inc.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
